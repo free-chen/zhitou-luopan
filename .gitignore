@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 本地密钥（绝不提交）
+apikey
+.env
+.env.local
+
+# 运行时日志
+*.log
+/tmp/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 系统
+Thumbs.db
+Desktop.ini
