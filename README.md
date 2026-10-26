@@ -68,7 +68,7 @@
 ### 启动
 
 ```bash
-git clone https://github.com/<你的用户名>/zhitou-luopan.git
+git clone https://github.com/free-chen/zhitou-luopan.git
 cd zhitou-luopan
 ./run.sh
 ```
